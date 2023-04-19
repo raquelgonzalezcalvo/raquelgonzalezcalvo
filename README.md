@@ -18,6 +18,18 @@ COMPETENCIAS TÉCNICAS:
 ![image](https://user-images.githubusercontent.com/115733488/233002839-9970f23c-e01a-4f1f-89af-9955bbb863a9.png) ![image](https://user-images.githubusercontent.com/115733488/233002895-991cf431-ceca-41f9-afa3-bd7fb927ca8e.png) ![image](https://user-images.githubusercontent.com/115733488/233002915-512eacd7-2f66-4e07-91d0-6afb4e005cef.png) ![image](https://user-images.githubusercontent.com/115733488/233002964-40e22d88-3bed-402c-9003-7fce2f0f1197.png)
 
 
+### HERRAMIENTAS
+
+![image](https://user-images.githubusercontent.com/115733488/233003206-cdbc3be1-f230-4ced-b868-a371bef27e67.png) ![image](https://user-images.githubusercontent.com/115733488/233003231-11bfd4c5-6615-40db-85c8-e8015a6878cf.png) ![image](https://user-images.githubusercontent.com/115733488/233003251-2fd8d891-7a42-473b-b3e2-d69fac3f6657.png) ![image](https://user-images.githubusercontent.com/115733488/233003295-7ebd744d-cd56-4c27-a436-3eb8dfa065de.png)
+
+
+### TRABAJO REMOTO
+
+![image](https://user-images.githubusercontent.com/115733488/233003445-d7e75166-0d6e-41bc-af8e-2f9aa60d2876.png) ![image](https://user-images.githubusercontent.com/115733488/233003502-11a54d9c-ac3b-4926-9248-176c03008e71.png)
+
+
+
+
 
 
 
