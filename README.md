@@ -15,8 +15,7 @@ COMPETENCIAS TÉCNICAS:
 
 ### BACK-END
 
-![image](https://user-images.githubusercontent.com/115733488/233002839-9970f23c-e01a-4f1f-89af-9955bbb863a9.png) ![image](https://user-images.githubusercontent.com/115733488/233002895-991cf431-ceca-41f9-afa3-bd7fb927ca8e.png) ![image](https://user-images.githubusercontent.com/115733488/233002915-512eacd7-2f66-4e07-91d0-6afb4e005cef.png) ![image](https://user-images.githubusercontent.com/115733488/233002964-40e22d88-3bed-402c-9003-7fce2f0f1197.png) ![image](https://user-images.githubusercontent.com/115733488/233048878-53be5caf-e895-4348-bbb1-92b0011ac43e.png)
-
+![image](https://user-images.githubusercontent.com/115733488/233002839-9970f23c-e01a-4f1f-89af-9955bbb863a9.png) ![image](https://user-images.githubusercontent.com/115733488/233002895-991cf431-ceca-41f9-afa3-bd7fb927ca8e.png) ![image](https://user-images.githubusercontent.com/115733488/233002915-512eacd7-2f66-4e07-91d0-6afb4e005cef.png) ![image](https://user-images.githubusercontent.com/115733488/233002964-40e22d88-3bed-402c-9003-7fce2f0f1197.png) 
 
 
 ### HERRAMIENTAS
