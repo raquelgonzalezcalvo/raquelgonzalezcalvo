@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![me2](https://github.com/raquelgonzalezcalvo/raquelgonzalezcalvo/assets/115733488/da2a9a70-054b-4d51-8851-977446276d2d)
+
 SOBRE MÍ: 
 
 Empecé como Trabajadora Social, viajé por el mundo y acabé aterrizando en la programación web. Con ganas de abrirme camino en este nuevo sector y crecer profesionalmente. Soy una persona resolutiva y perseverante que no se rinde a la primera. 
