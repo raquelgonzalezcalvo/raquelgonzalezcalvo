@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![me2](https://github.com/raquelgonzalezcalvo/raquelgonzalezcalvo/assets/115733488/d83503f6-67a5-4a36-82eb-b17096737f6f)
+![me3](https://github.com/raquelgonzalezcalvo/raquelgonzalezcalvo/assets/115733488/e6c412ef-c534-4ff0-bde8-12a392031a7d)
 
 SOBRE MÍ: 
 
