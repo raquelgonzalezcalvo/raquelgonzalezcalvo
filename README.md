@@ -9,7 +9,7 @@ Destaco mi proactividad, mi capacidad para saber trabajar en equipo, mis ganas d
 
 ### Mi porfolio 📁: https://raquelgonzalezcalvo.github.io/Portfolio/
 
-COMPETENCIAS TÉCNICAS:
+### COMPETENCIAS TÉCNICAS:
 
 ### FRONT-END
 
