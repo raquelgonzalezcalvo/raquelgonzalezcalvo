@@ -2,12 +2,12 @@
 
 ![me3](https://github.com/raquelgonzalezcalvo/raquelgonzalezcalvo/assets/115733488/e6c412ef-c534-4ff0-bde8-12a392031a7d)
 
-SOBRE MÍ:
+### SOBRE MÍ:
 
 Empecé como Trabajadora Social, viajé por el mundo y acabé aterrizando en la programación web. Con ganas de abrirme camino en este nuevo sector y crecer profesionalmente. Soy una persona resolutiva y perseverante que no se rinde a la primera. 
 Destaco mi proactividad, mi capacidad para saber trabajar en equipo, mis ganas de aprender y mi capacidad de adaptación.
 
-Mi porfolio 📁: https://raquelgonzalezcalvo.github.io/Portfolio/
+### Mi porfolio 📁: https://raquelgonzalezcalvo.github.io/Portfolio/
 
 COMPETENCIAS TÉCNICAS:
 
