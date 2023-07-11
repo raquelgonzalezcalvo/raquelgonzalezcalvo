@@ -29,6 +29,7 @@ Destaco mi proactividad, mi capacidad para saber trabajar en equipo, mis ganas d
 
 ### TRABAJO REMOTO
 
+![image](https://user-images.githubusercontent.com/115733488/233003445-d7e75166-0d6e-41bc-af8e-2f9aa60d2876.png) ![image](https://user-images.githubusercontent.com/115733488/233003502-11a54d9c-ac3b-4926-9248-176c03008e71.png)
 
 
 
